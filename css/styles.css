@@ -1,0 +1,16 @@
+#header { 
+  height: 100px;
+}
+
+#header #social {
+
+}
+
+#header #social img {
+  height: 68px;
+}
+
+#main {
+  background-color: #ADD8E6;
+  color: #FFFFFF;
+}
